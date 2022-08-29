@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/athirofficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmathir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hmathir) 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,html,css,dart,xml,json,mysql,haskell)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,html,css,dart,xml,json,mysql,haskell,react)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hmathir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
