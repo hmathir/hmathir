@@ -7,7 +7,9 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <br>
-<br>    
+<br>
+
+<a href="https://app.daily.dev/hmathir"><img src="https://api.daily.dev/devcards/e80614d2d3944414944299a4b8af8117.png?r=kyo" width="400" alt="HM Athir's Dev Card"/></a>
 
 
 # 📊 GitHub Stats:
