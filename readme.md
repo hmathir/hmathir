@@ -10,17 +10,11 @@
 <br>
 
 
-
-
 # 📊 GitHub Stats:
-<div align=""left"
 ![](https://github-readme-stats.vercel.app/api?username=hmathir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hmathir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmathir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-                
-<p align="right">
-<a href="https://app.daily.dev/hmathir"><img src="https://api.daily.dev/devcards/e80614d2d3944414944299a4b8af8117.png?r=kyo" width="400" alt="HM Athir's Dev Card"/></a> </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hmathir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
