@@ -18,5 +18,4 @@
 
 <a href="https://app.daily.dev/hmathir"><img src="https://api.daily.dev/devcards/e80614d2d3944414944299a4b8af8117.png?r=kyo" width="400" alt="HM Athir's Dev Card"/></a>
 
----
 [![](https://visitcount.itsvg.in/api?id=hmathir&icon=0&color=0)](https://visitcount.itsvg.in)
